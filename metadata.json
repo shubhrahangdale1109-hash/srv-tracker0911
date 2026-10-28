@@ -1,0 +1,6 @@
+{
+  "name": "SRV Tracker",
+  "description": "A complete, modern, mobile-first personal life management web application for daily tasks, college, health, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
